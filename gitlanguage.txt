@@ -3,10 +3,20 @@
 
 3. git init
 
-4. git add filename filename2
+4. git add [file1] [file2]
 
-5. git commit -m ""
+5. git commit -m [message]
 
 6. git status.
 
-两步 4 and 5S
+7. git log
+
+8. git push [remote] [branch]
+
+9. git pull [remote] [branch]
+
+10 git clone [url]
+
+https://try.github.io
+
+两步 4 and 5
