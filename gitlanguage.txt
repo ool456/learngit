@@ -17,6 +17,8 @@
 
 10 git clone [url]
 
+11 . git diff
+
 https://try.github.io
 
 两步 4 and 5
