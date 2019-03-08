@@ -10,6 +10,7 @@
 6. git status.
 
 7. git log
+	7.1 git log --pretty=oneline
 
 8. git push [remote] [branch]
 
