@@ -25,4 +25,5 @@ https://try.github.io
 两步 4 and 5
 
 12 .rollback
-	12.1 HEAD^ HEAD^^ HEAD^^^ HEAD~100 command:git reset --hard HEAD^
+	12.1 HEAD^ HEAD^^ HEAD^^^ HEAD~100 command:git reset --hard [commit_id]
+	12.2 git reflog
