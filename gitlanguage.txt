@@ -27,3 +27,8 @@ https://try.github.io
 12 .rollback
 	12.1 HEAD^ HEAD^^ HEAD^^^ HEAD~100 command:git reset --hard [commit_id]
 	12.2 git reflog
+	
+13. git checkout -b [dev]
+	= git branch [dev] + git checkout [dev]
+	
+14. cat branch : git branch.
